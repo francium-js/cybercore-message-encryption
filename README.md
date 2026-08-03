@@ -10,7 +10,7 @@ It takes two parts, and both live in this repository on separate branches:
 | Branch | What it is | Runs on |
 | --- | --- | --- |
 | [`26.1.2-fabric`](../../tree/26.1.2-fabric) | Client mod — does all encryption and decryption, owns the keys | Fabric client, Minecraft 26.1.2 |
-| [`26.1.2-folia`](../../tree/26.1.2-folia) | Server plugin — relays sealed messages, verifies signatures, holds no key | Folia / Paper, Minecraft 26.1.2 |
+| [`26.1.2-folia`](../../tree/26.1.2-folia) | Server plugin — relays sealed messages, verifies signatures, holds no key | Folia, Minecraft 26.1.2 |
 | `main` | This README only | — |
 
 The two sides share a wire protocol (`cybercore:encrypto`, currently version 3); the opcodes and
