@@ -1,0 +1,48 @@
+# cybercore-server-message-encryption
+#
+# This plugin relays private messages it cannot read. It holds no private key: clients running the
+# cybercore-message-encryption mod encrypt for each other, and the server only sees ciphertext plus
+# the public keys players announce when they join.
+
+# How long a client has to answer the handshake before the server gives up on it. A vanilla client
+# never answers, and is then treated as unable to send or receive private messages.
+handshake-timeout-seconds: 10
+
+# Ceiling on relayed encrypted messages per player per minute. Far above human typing speed; it
+# bounds what a scripted client can push through the relay.
+max-messages-per-minute: 60
+
+# How long before the same sender can prompt the same player to install the mod again. Every /msg
+# attempt against a player without the mod reaches the server, so without a cooldown the prompt
+# could be driven as a spam channel. Set to 0 to prompt on every attempt.
+nudge-cooldown-seconds: 300
+
+# Every message the server sends to a player, in MiniMessage format. Safe to translate or reword.
+#
+# Placeholders:
+#   <sender>   the player who sent, or is trying to send, the message
+#   <target>   the player being messaged
+#
+# There is no placeholder for the message body: the server never holds one. Encrypted bodies it
+# cannot read, and unencrypted ones it refuses to carry.
+#
+# The mod writes text of its own only for what the server cannot know about: a local decryption
+# failure, a changed fingerprint, command usage. Everything below is server-side.
+messages:
+  # --- refused private messages ---
+  encryption-required: "<red>Private messages on this server are end-to-end encrypted. Install the cybercore-message-encryption mod to use /msg."
+  client-should-encrypt: "<red>Your client has encryption available but sent this in the clear; the message was not delivered."
+
+  # --- shown to a player who has no mod, when someone tries to message them ---
+  encryption-nudge: "<yellow><sender> is trying to send you a private message, but it is end-to-end encrypted and your client cannot open it. Install the cybercore-message-encryption mod and rejoin to receive it."
+
+  # --- shown to the sender when a message cannot be delivered ---
+  target-not-encrypted: "<red><target> cannot receive encrypted messages - they need the mod. Your message was not sent."
+  target-not-encrypted-prompted: "<red><target> cannot receive encrypted messages yet. They have been asked to install the mod; your message was not sent."
+  target-offline: "<red>They went offline before the message arrived."
+  player-not-found: "<red><target> is not online."
+  cannot-message-self: "<red>You cannot message yourself."
+  sender-not-handshaken: "<red>Your client has not completed the encryption handshake."
+  sender-bad-signature: "<red>The server could not verify your message signature; it was not delivered."
+  rate-limited: "<red>You are sending messages too quickly."
+  stale-key: "<red><target> reconnected just now and their key changed. Send it again."

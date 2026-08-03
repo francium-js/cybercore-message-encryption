@@ -1,0 +1,14 @@
+[versions]
+folia-api = "26.1.2.build.8-stable"
+minecraft = "26.1.2"
+
+javalin = "6.7.0"
+
+run-task = "3.0.2"
+
+[libraries]
+folia-api = { module = "dev.folia:folia-api", version.ref = "folia-api" }
+javalin = { module = "io.javalin:javalin", version.ref = "javalin" }
+
+[plugins]
+run-paper = { id = "xyz.jpenilla.run-paper", version.ref = "run-task" }

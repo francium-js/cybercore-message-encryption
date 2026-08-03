@@ -1,0 +1,14 @@
+name: cybercore-server-message-encryption
+version: '${version}'
+description: Relays end-to-end encrypted private messages; replaces /msg and /r.
+author: francium
+
+main: org.francium.cybercoreServerMessageEncryption.CybercoreServerMessageEncryption
+api-version: '26.1.2'
+load: POSTWORLD
+folia-supported: true
+
+permissions:
+  cybercore.encrypto.admin:
+    description: Lists every online player's encryption state and key fingerprint.
+    default: op
