@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Krüpteering sees",
+  "cybercore.encrypto.toast.ok.body": "Sõnumid kaitstud",
+  "cybercore.encrypto.toast.failed.title": "Krüpteering väljas",
+  "cybercore.encrypto.toast.failed.no_server": "Pole toetatud",
+  "cybercore.encrypto.toast.failed.no_result": "Kinnitust pole",
+  "cybercore.encrypto.toast.failed.version": "Protokoll v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Võtmed tagasi lükatud",
+  "cybercore.encrypto.toast.failed.local_key": "Võtme viga",
+  "cybercore.encrypto.hud.unencrypted": "Krüpteerimata"
+}

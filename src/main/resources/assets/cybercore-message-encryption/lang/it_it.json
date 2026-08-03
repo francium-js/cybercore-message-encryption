@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Crittografia attiva",
+  "cybercore.encrypto.toast.ok.body": "Messaggi protetti",
+  "cybercore.encrypto.toast.failed.title": "Crittografia inattiva",
+  "cybercore.encrypto.toast.failed.no_server": "Non supportato",
+  "cybercore.encrypto.toast.failed.no_result": "Nessuna conferma",
+  "cybercore.encrypto.toast.failed.version": "Protocollo v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Chiavi rifiutate",
+  "cybercore.encrypto.toast.failed.local_key": "Errore di chiave",
+  "cybercore.encrypto.hud.unencrypted": "Non crittografato"
+}

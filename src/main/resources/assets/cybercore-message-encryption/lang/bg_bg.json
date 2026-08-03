@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Шифроването е вкл.",
+  "cybercore.encrypto.toast.ok.body": "Съобщенията защитени",
+  "cybercore.encrypto.toast.failed.title": "Шифроването е изкл.",
+  "cybercore.encrypto.toast.failed.no_server": "Не се поддържа",
+  "cybercore.encrypto.toast.failed.no_result": "Няма потвърждение",
+  "cybercore.encrypto.toast.failed.version": "Протокол v%s, мод v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Ключовете отхвърлени",
+  "cybercore.encrypto.toast.failed.local_key": "Грешка в ключа",
+  "cybercore.encrypto.hud.unencrypted": "Нешифровано"
+}

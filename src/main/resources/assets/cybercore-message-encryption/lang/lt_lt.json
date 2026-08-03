@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Šifravimas įjungtas",
+  "cybercore.encrypto.toast.ok.body": "Žinutės apsaugotos",
+  "cybercore.encrypto.toast.failed.title": "Šifravimas išjungtas",
+  "cybercore.encrypto.toast.failed.no_server": "Nepalaikoma",
+  "cybercore.encrypto.toast.failed.no_result": "Nėra patvirtinimo",
+  "cybercore.encrypto.toast.failed.version": "Protokolas v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Raktai atmesti",
+  "cybercore.encrypto.toast.failed.local_key": "Rakto klaida",
+  "cybercore.encrypto.hud.unencrypted": "Nešifruota"
+}

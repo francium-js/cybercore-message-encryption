@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "加密已启用",
+  "cybercore.encrypto.toast.ok.body": "消息受保护",
+  "cybercore.encrypto.toast.failed.title": "加密未启用",
+  "cybercore.encrypto.toast.failed.no_server": "服务器不支持",
+  "cybercore.encrypto.toast.failed.no_result": "未收到确认",
+  "cybercore.encrypto.toast.failed.version": "协议 v%s，模组 v%s",
+  "cybercore.encrypto.toast.failed.rejected": "密钥被拒绝",
+  "cybercore.encrypto.toast.failed.local_key": "本地密钥错误",
+  "cybercore.encrypto.hud.unencrypted": "未加密"
+}

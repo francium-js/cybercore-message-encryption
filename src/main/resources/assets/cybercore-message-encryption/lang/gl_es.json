@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Cifrado activado",
+  "cybercore.encrypto.toast.ok.body": "Mensaxes protexidas",
+  "cybercore.encrypto.toast.failed.title": "Cifrado desactivado",
+  "cybercore.encrypto.toast.failed.no_server": "Non compatible",
+  "cybercore.encrypto.toast.failed.no_result": "Sen confirmación",
+  "cybercore.encrypto.toast.failed.version": "Protocolo v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Chaves rexeitadas",
+  "cybercore.encrypto.toast.failed.local_key": "Erro de chave",
+  "cybercore.encrypto.hud.unencrypted": "Sen cifrar"
+}

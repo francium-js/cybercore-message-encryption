@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Đã bật mã hóa",
+  "cybercore.encrypto.toast.ok.body": "Tin nhắn được bảo vệ",
+  "cybercore.encrypto.toast.failed.title": "Đã tắt mã hóa",
+  "cybercore.encrypto.toast.failed.no_server": "Không hỗ trợ",
+  "cybercore.encrypto.toast.failed.no_result": "Không có xác nhận",
+  "cybercore.encrypto.toast.failed.version": "Giao thức v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Khóa bị từ chối",
+  "cybercore.encrypto.toast.failed.local_key": "Lỗi khóa cục bộ",
+  "cybercore.encrypto.hud.unencrypted": "Chưa mã hóa"
+}

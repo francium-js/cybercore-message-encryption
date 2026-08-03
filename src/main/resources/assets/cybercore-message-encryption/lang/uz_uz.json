@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Shifrlash yoqilgan",
+  "cybercore.encrypto.toast.ok.body": "Xabarlar himoyalangan",
+  "cybercore.encrypto.toast.failed.title": "Shifrlash o'chiq",
+  "cybercore.encrypto.toast.failed.no_server": "Qo'llanmaydi",
+  "cybercore.encrypto.toast.failed.no_result": "Tasdiq yo'q",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Kalitlar rad etildi",
+  "cybercore.encrypto.toast.failed.local_key": "Kalit xatosi",
+  "cybercore.encrypto.hud.unencrypted": "Shifrlanmagan"
+}

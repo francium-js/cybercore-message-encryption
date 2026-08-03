@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Криптирање вклучено",
+  "cybercore.encrypto.toast.ok.body": "Пораките заштитени",
+  "cybercore.encrypto.toast.failed.title": "Криптирање исклучено",
+  "cybercore.encrypto.toast.failed.no_server": "Не е поддржано",
+  "cybercore.encrypto.toast.failed.no_result": "Нема потврда",
+  "cybercore.encrypto.toast.failed.version": "Протокол v%s, мод v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Клучевите одбиени",
+  "cybercore.encrypto.toast.failed.local_key": "Грешка со клучот",
+  "cybercore.encrypto.hud.unencrypted": "Некриптирано"
+}

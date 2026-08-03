@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Κρυπτογράφηση ενεργή",
+  "cybercore.encrypto.toast.ok.body": "Μηνύματα ασφαλή",
+  "cybercore.encrypto.toast.failed.title": "Χωρίς κρυπτογράφηση",
+  "cybercore.encrypto.toast.failed.no_server": "Δεν υποστηρίζεται",
+  "cybercore.encrypto.toast.failed.no_result": "Καμία επιβεβαίωση",
+  "cybercore.encrypto.toast.failed.version": "Πρωτόκολλο v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Κλειδιά απορρίφθηκαν",
+  "cybercore.encrypto.toast.failed.local_key": "Σφάλμα κλειδιού",
+  "cybercore.encrypto.hud.unencrypted": "Μη κρυπτογραφημένο"
+}

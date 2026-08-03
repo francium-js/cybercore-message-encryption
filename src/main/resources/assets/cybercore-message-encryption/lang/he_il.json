@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "הצפנה פעילה",
+  "cybercore.encrypto.toast.ok.body": "ההודעות מוגנות",
+  "cybercore.encrypto.toast.failed.title": "הצפנה כבויה",
+  "cybercore.encrypto.toast.failed.no_server": "אין תמיכה",
+  "cybercore.encrypto.toast.failed.no_result": "אין אישור",
+  "cybercore.encrypto.toast.failed.version": "פרוטוקול v%s, מוד v%s",
+  "cybercore.encrypto.toast.failed.rejected": "המפתחות נדחו",
+  "cybercore.encrypto.toast.failed.local_key": "שגיאת מפתח",
+  "cybercore.encrypto.hud.unencrypted": "לא מוצפן"
+}

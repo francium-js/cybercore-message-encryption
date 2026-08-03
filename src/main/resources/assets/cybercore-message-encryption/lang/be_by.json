@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Шыфраванне ўкл.",
+  "cybercore.encrypto.toast.ok.body": "Паведамленні ў бяспецы",
+  "cybercore.encrypto.toast.failed.title": "Шыфраванне выкл.",
+  "cybercore.encrypto.toast.failed.no_server": "Не падтрымліваецца",
+  "cybercore.encrypto.toast.failed.no_result": "Няма пацвярджэння",
+  "cybercore.encrypto.toast.failed.version": "Пратакол v%s, мод v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Ключы адхілены",
+  "cybercore.encrypto.toast.failed.local_key": "Памылка ключа",
+  "cybercore.encrypto.hud.unencrypted": "Без шыфравання"
+}

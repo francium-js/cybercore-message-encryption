@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Xifratge activat",
+  "cybercore.encrypto.toast.ok.body": "Missatges protegits",
+  "cybercore.encrypto.toast.failed.title": "Xifratge desactivat",
+  "cybercore.encrypto.toast.failed.no_server": "No compatible",
+  "cybercore.encrypto.toast.failed.no_result": "Sense confirmació",
+  "cybercore.encrypto.toast.failed.version": "Protocol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Claus rebutjades",
+  "cybercore.encrypto.toast.failed.local_key": "Error de clau",
+  "cybercore.encrypto.hud.unencrypted": "Sense xifrar"
+}

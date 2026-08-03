@@ -1,0 +1,39 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Шифрування увімкнено",
+  "cybercore.encrypto.toast.ok.body": "Листування захищене",
+  "cybercore.encrypto.toast.failed.title": "Шифрування вимкнено",
+  "cybercore.encrypto.toast.failed.no_server": "Сервер не підтримує",
+  "cybercore.encrypto.toast.failed.no_result": "Немає підтвердження",
+  "cybercore.encrypto.toast.failed.version": "Протокол v%s, мод v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Ключі відхилено",
+  "cybercore.encrypto.toast.failed.local_key": "Помилка ключа",
+
+  "cybercore.encrypto.hud.unencrypted": "Не зашифровано",
+  "cybercore.encrypto.chat.you": "ти",
+
+  "cybercore.encrypto.trust.pinned": "Закріплено %s з відбитком %s.",
+  "cybercore.encrypto.trust.forgotten": "Закріплений ключ для %s забуто.",
+
+  "cybercore.encrypto.status.line": "Шифрування: %s",
+  "cybercore.encrypto.status.established": "увімкнено",
+  "cybercore.encrypto.status.handshaking": "рукостискання",
+  "cybercore.encrypto.status.failed": "вимкнено",
+  "cybercore.encrypto.status.disconnected": "немає з'єднання",
+  "cybercore.encrypto.status.fingerprint": "Твій відбиток: %s",
+  "cybercore.encrypto.status.peer_fingerprint": "%s: %s",
+
+  "cybercore.encrypto.error.usage_msg": "Використання: /msg <гравець> <повідомлення>",
+  "cybercore.encrypto.error.usage_trust": "Використання: /encrypto trust <гравець>",
+  "cybercore.encrypto.error.empty_message": "Нема чого надсилати.",
+  "cybercore.encrypto.error.too_long": "Повідомлення задовге (ліміт — %s байтів).",
+  "cybercore.encrypto.error.unsigned_key": "Сервер видав ключ обміну для %s, якого той не підписував. Нічого не надіслано.",
+  "cybercore.encrypto.error.key_timeout": "Сервер не відповів на запит ключа для %s.",
+  "cybercore.encrypto.error.no_cached_key": "Ключа для %s ще немає — спершу обміняйтеся повідомленням.",
+  "cybercore.encrypto.error.key_changed": "Ключ гравця %s змінився. Можливо, хтось перехоплює; повідомлення не надіслано.",
+  "cybercore.encrypto.error.key_changed_detail": "Було закріплено %s, тепер пропонують %s.",
+  "cybercore.encrypto.error.key_changed_hint": "Звірте новий відбиток і виконай /encrypto trust %s.",
+  "cybercore.encrypto.error.encrypt_failed": "Не вдалося зашифрувати; повідомлення не надіслано.",
+  "cybercore.encrypto.error.decrypt_failed": "Не вдалося розшифрувати повідомлення від %s.",
+  "cybercore.encrypto.error.bad_signature": "Відкинуто повідомлення нібито від %s: підпис не збігається з його ключем.",
+  "cybercore.encrypto.error.no_reply_target": "Немає кому відповідати."
+}

@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Kryptering til",
+  "cybercore.encrypto.toast.ok.body": "Beskeder beskyttet",
+  "cybercore.encrypto.toast.failed.title": "Kryptering fra",
+  "cybercore.encrypto.toast.failed.no_server": "Ikke understøttet",
+  "cybercore.encrypto.toast.failed.no_result": "Ingen bekræftelse",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Nøgler afvist",
+  "cybercore.encrypto.toast.failed.local_key": "Nøglefejl",
+  "cybercore.encrypto.hud.unencrypted": "Ukrypteret"
+}

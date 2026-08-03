@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Titkosítás be",
+  "cybercore.encrypto.toast.ok.body": "Üzenetek védve",
+  "cybercore.encrypto.toast.failed.title": "Titkosítás ki",
+  "cybercore.encrypto.toast.failed.no_server": "Nem támogatott",
+  "cybercore.encrypto.toast.failed.no_result": "Nincs megerősítés",
+  "cybercore.encrypto.toast.failed.version": "Protokoll v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Kulcsok elutasítva",
+  "cybercore.encrypto.toast.failed.local_key": "Kulcshiba",
+  "cybercore.encrypto.hud.unencrypted": "Titkosítatlan"
+}

@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Szyfrowanie włączone",
+  "cybercore.encrypto.toast.ok.body": "Wiadomości chronione",
+  "cybercore.encrypto.toast.failed.title": "Szyfrowanie wyłączone",
+  "cybercore.encrypto.toast.failed.no_server": "Brak obsługi",
+  "cybercore.encrypto.toast.failed.no_result": "Brak potwierdzenia",
+  "cybercore.encrypto.toast.failed.version": "Protokół v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Klucze odrzucone",
+  "cybercore.encrypto.toast.failed.local_key": "Błąd klucza",
+  "cybercore.encrypto.hud.unencrypted": "Niezaszyfrowane"
+}

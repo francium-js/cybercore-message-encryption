@@ -1,0 +1,39 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Encryption on",
+  "cybercore.encrypto.toast.ok.body": "Messages protected",
+  "cybercore.encrypto.toast.failed.title": "Encryption off",
+  "cybercore.encrypto.toast.failed.no_server": "Not supported here",
+  "cybercore.encrypto.toast.failed.no_result": "No confirmation",
+  "cybercore.encrypto.toast.failed.version": "Protocol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Keys rejected",
+  "cybercore.encrypto.toast.failed.local_key": "Local key error",
+
+  "cybercore.encrypto.hud.unencrypted": "Not encrypted",
+  "cybercore.encrypto.chat.you": "you",
+
+  "cybercore.encrypto.trust.pinned": "Pinned %s to fingerprint %s.",
+  "cybercore.encrypto.trust.forgotten": "Forgot the pinned key for %s.",
+
+  "cybercore.encrypto.status.line": "Encryption: %s",
+  "cybercore.encrypto.status.established": "on",
+  "cybercore.encrypto.status.handshaking": "handshaking",
+  "cybercore.encrypto.status.failed": "off",
+  "cybercore.encrypto.status.disconnected": "not connected",
+  "cybercore.encrypto.status.fingerprint": "Your fingerprint: %s",
+  "cybercore.encrypto.status.peer_fingerprint": "%s: %s",
+
+  "cybercore.encrypto.error.usage_msg": "Usage: /msg <player> <message>",
+  "cybercore.encrypto.error.usage_trust": "Usage: /encrypto trust <player>",
+  "cybercore.encrypto.error.empty_message": "Nothing to send.",
+  "cybercore.encrypto.error.too_long": "Message is too long (limit is %s bytes).",
+  "cybercore.encrypto.error.unsigned_key": "The server handed out an exchange key for %s that they did not sign. Nothing was sent.",
+  "cybercore.encrypto.error.key_timeout": "The server did not answer the key lookup for %s.",
+  "cybercore.encrypto.error.no_cached_key": "No key cached for %s yet — exchange a message first.",
+  "cybercore.encrypto.error.key_changed": "%s's key changed. Someone may be intercepting; the message was not sent.",
+  "cybercore.encrypto.error.key_changed_detail": "Pinned %s, now offering %s.",
+  "cybercore.encrypto.error.key_changed_hint": "Check the new fingerprint with them, then run /encrypto trust %s.",
+  "cybercore.encrypto.error.encrypt_failed": "Encryption failed; the message was not sent.",
+  "cybercore.encrypto.error.decrypt_failed": "Could not decrypt a message from %s.",
+  "cybercore.encrypto.error.bad_signature": "Dropped a message claiming to be from %s: the signature did not match their key.",
+  "cybercore.encrypto.error.no_reply_target": "Nobody to reply to yet."
+}

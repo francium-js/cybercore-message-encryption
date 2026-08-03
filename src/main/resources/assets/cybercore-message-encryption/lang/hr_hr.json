@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Šifriranje uključeno",
+  "cybercore.encrypto.toast.ok.body": "Poruke zaštićene",
+  "cybercore.encrypto.toast.failed.title": "Šifriranje isključeno",
+  "cybercore.encrypto.toast.failed.no_server": "Nije podržano",
+  "cybercore.encrypto.toast.failed.no_result": "Nema potvrde",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Ključevi odbijeni",
+  "cybercore.encrypto.toast.failed.local_key": "Greška ključa",
+  "cybercore.encrypto.hud.unencrypted": "Nešifrirano"
+}

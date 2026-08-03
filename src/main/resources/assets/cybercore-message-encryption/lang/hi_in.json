@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "एन्क्रिप्शन चालू",
+  "cybercore.encrypto.toast.ok.body": "संदेश सुरक्षित",
+  "cybercore.encrypto.toast.failed.title": "एन्क्रिप्शन बंद",
+  "cybercore.encrypto.toast.failed.no_server": "समर्थित नहीं",
+  "cybercore.encrypto.toast.failed.no_result": "पुष्टि नहीं मिली",
+  "cybercore.encrypto.toast.failed.version": "प्रोटोकॉल v%s, मॉड v%s",
+  "cybercore.encrypto.toast.failed.rejected": "कुंजियाँ अस्वीकृत",
+  "cybercore.encrypto.toast.failed.local_key": "कुंजी त्रुटि",
+  "cybercore.encrypto.hud.unencrypted": "एन्क्रिप्ट नहीं"
+}

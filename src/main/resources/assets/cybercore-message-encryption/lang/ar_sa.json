@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "التشفير مفعل",
+  "cybercore.encrypto.toast.ok.body": "الرسائل محمية",
+  "cybercore.encrypto.toast.failed.title": "التشفير متوقف",
+  "cybercore.encrypto.toast.failed.no_server": "غير مدعوم",
+  "cybercore.encrypto.toast.failed.no_result": "لا يوجد تأكيد",
+  "cybercore.encrypto.toast.failed.version": "بروتوكول v%s، مود v%s",
+  "cybercore.encrypto.toast.failed.rejected": "تم رفض المفاتيح",
+  "cybercore.encrypto.toast.failed.local_key": "خطأ في المفتاح",
+  "cybercore.encrypto.hud.unencrypted": "غير مشفر"
+}

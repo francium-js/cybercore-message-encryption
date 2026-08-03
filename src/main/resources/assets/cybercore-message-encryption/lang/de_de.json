@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Verschlüsselung an",
+  "cybercore.encrypto.toast.ok.body": "Nachrichten geschützt",
+  "cybercore.encrypto.toast.failed.title": "Verschlüsselung aus",
+  "cybercore.encrypto.toast.failed.no_server": "Nicht unterstützt",
+  "cybercore.encrypto.toast.failed.no_result": "Keine Bestätigung",
+  "cybercore.encrypto.toast.failed.version": "Protokoll v%s, Mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Schlüssel abgelehnt",
+  "cybercore.encrypto.toast.failed.local_key": "Schlüsselfehler",
+  "cybercore.encrypto.hud.unencrypted": "Unverschlüsselt"
+}

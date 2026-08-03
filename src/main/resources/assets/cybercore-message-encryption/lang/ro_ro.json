@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Criptare activă",
+  "cybercore.encrypto.toast.ok.body": "Mesaje protejate",
+  "cybercore.encrypto.toast.failed.title": "Criptare oprită",
+  "cybercore.encrypto.toast.failed.no_server": "Nu este acceptat",
+  "cybercore.encrypto.toast.failed.no_result": "Fără confirmare",
+  "cybercore.encrypto.toast.failed.version": "Protocol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Chei respinse",
+  "cybercore.encrypto.toast.failed.local_key": "Eroare de cheie",
+  "cybercore.encrypto.hud.unencrypted": "Necriptat"
+}

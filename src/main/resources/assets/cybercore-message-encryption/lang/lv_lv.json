@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Šifrēšana ieslēgta",
+  "cybercore.encrypto.toast.ok.body": "Ziņas aizsargātas",
+  "cybercore.encrypto.toast.failed.title": "Šifrēšana izslēgta",
+  "cybercore.encrypto.toast.failed.no_server": "Netiek atbalstīts",
+  "cybercore.encrypto.toast.failed.no_result": "Nav apstiprinājuma",
+  "cybercore.encrypto.toast.failed.version": "Protokols v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Atslēgas noraidītas",
+  "cybercore.encrypto.toast.failed.local_key": "Atslēgas kļūda",
+  "cybercore.encrypto.hud.unencrypted": "Nešifrēts"
+}

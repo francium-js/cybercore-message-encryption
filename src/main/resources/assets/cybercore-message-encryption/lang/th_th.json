@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "เปิดการเข้ารหัส",
+  "cybercore.encrypto.toast.ok.body": "ข้อความปลอดภัย",
+  "cybercore.encrypto.toast.failed.title": "ปิดการเข้ารหัส",
+  "cybercore.encrypto.toast.failed.no_server": "ไม่รองรับ",
+  "cybercore.encrypto.toast.failed.no_result": "ไม่มีการยืนยัน",
+  "cybercore.encrypto.toast.failed.version": "โปรโตคอล v%s, ม็อด v%s",
+  "cybercore.encrypto.toast.failed.rejected": "ปฏิเสธกุญแจ",
+  "cybercore.encrypto.toast.failed.local_key": "คีย์ผิดพลาด",
+  "cybercore.encrypto.hud.unencrypted": "ไม่ได้เข้ารหัส"
+}

@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "암호화 켜짐",
+  "cybercore.encrypto.toast.ok.body": "메시지 보호됨",
+  "cybercore.encrypto.toast.failed.title": "암호화 꺼짐",
+  "cybercore.encrypto.toast.failed.no_server": "서버 미지원",
+  "cybercore.encrypto.toast.failed.no_result": "확인 없음",
+  "cybercore.encrypto.toast.failed.version": "프로토콜 v%s / v%s",
+  "cybercore.encrypto.toast.failed.rejected": "키가 거부됨",
+  "cybercore.encrypto.toast.failed.local_key": "로컬 키 오류",
+  "cybercore.encrypto.hud.unencrypted": "암호화 안 됨"
+}

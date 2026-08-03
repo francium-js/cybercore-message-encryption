@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "暗号化オン",
+  "cybercore.encrypto.toast.ok.body": "メッセージ保護中",
+  "cybercore.encrypto.toast.failed.title": "暗号化オフ",
+  "cybercore.encrypto.toast.failed.no_server": "サーバー未対応",
+  "cybercore.encrypto.toast.failed.no_result": "確認がありません",
+  "cybercore.encrypto.toast.failed.version": "プロトコル v%s と v%s",
+  "cybercore.encrypto.toast.failed.rejected": "鍵が拒否されました",
+  "cybercore.encrypto.toast.failed.local_key": "ローカル鍵エラー",
+  "cybercore.encrypto.hud.unencrypted": "暗号化なし"
+}

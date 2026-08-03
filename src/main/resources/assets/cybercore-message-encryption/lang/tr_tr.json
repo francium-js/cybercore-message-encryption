@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Şifreleme açık",
+  "cybercore.encrypto.toast.ok.body": "Mesajlar korunuyor",
+  "cybercore.encrypto.toast.failed.title": "Şifreleme kapalı",
+  "cybercore.encrypto.toast.failed.no_server": "Desteklenmiyor",
+  "cybercore.encrypto.toast.failed.no_result": "Onay alınamadı",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Anahtarlar reddedildi",
+  "cybercore.encrypto.toast.failed.local_key": "Anahtar hatası",
+  "cybercore.encrypto.hud.unencrypted": "Şifresiz"
+}

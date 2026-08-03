@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Naka-encrypt",
+  "cybercore.encrypto.toast.ok.body": "Protektado na",
+  "cybercore.encrypto.toast.failed.title": "Walang encryption",
+  "cybercore.encrypto.toast.failed.no_server": "Hindi suportado",
+  "cybercore.encrypto.toast.failed.no_result": "Walang kumpirmasyon",
+  "cybercore.encrypto.toast.failed.version": "Protocol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Tinanggihan ang key",
+  "cybercore.encrypto.toast.failed.local_key": "Error sa key",
+  "cybercore.encrypto.hud.unencrypted": "Hindi naka-encrypt"
+}

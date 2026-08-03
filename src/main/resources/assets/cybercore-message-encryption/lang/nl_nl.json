@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Versleuteling aan",
+  "cybercore.encrypto.toast.ok.body": "Berichten beveiligd",
+  "cybercore.encrypto.toast.failed.title": "Versleuteling uit",
+  "cybercore.encrypto.toast.failed.no_server": "Niet ondersteund",
+  "cybercore.encrypto.toast.failed.no_result": "Geen bevestiging",
+  "cybercore.encrypto.toast.failed.version": "Protocol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Sleutels geweigerd",
+  "cybercore.encrypto.toast.failed.local_key": "Sleutelfout",
+  "cybercore.encrypto.hud.unencrypted": "Niet versleuteld"
+}

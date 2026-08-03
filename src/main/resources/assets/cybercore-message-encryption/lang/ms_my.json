@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Penyulitan aktif",
+  "cybercore.encrypto.toast.ok.body": "Mesej dilindungi",
+  "cybercore.encrypto.toast.failed.title": "Penyulitan mati",
+  "cybercore.encrypto.toast.failed.no_server": "Tidak disokong",
+  "cybercore.encrypto.toast.failed.no_result": "Tiada pengesahan",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Kunci ditolak",
+  "cybercore.encrypto.toast.failed.local_key": "Ralat kunci",
+  "cybercore.encrypto.hud.unencrypted": "Tidak disulitkan"
+}

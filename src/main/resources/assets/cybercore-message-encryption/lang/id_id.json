@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Enkripsi aktif",
+  "cybercore.encrypto.toast.ok.body": "Pesan terlindungi",
+  "cybercore.encrypto.toast.failed.title": "Enkripsi nonaktif",
+  "cybercore.encrypto.toast.failed.no_server": "Tidak didukung",
+  "cybercore.encrypto.toast.failed.no_result": "Tanpa konfirmasi",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Kunci ditolak",
+  "cybercore.encrypto.toast.failed.local_key": "Galat kunci lokal",
+  "cybercore.encrypto.hud.unencrypted": "Tidak terenkripsi"
+}

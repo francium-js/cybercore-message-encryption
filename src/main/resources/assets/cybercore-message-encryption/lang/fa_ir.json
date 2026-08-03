@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "رمزگذاری فعال",
+  "cybercore.encrypto.toast.ok.body": "پیام‌ها محافظت شد",
+  "cybercore.encrypto.toast.failed.title": "رمزگذاری خاموش",
+  "cybercore.encrypto.toast.failed.no_server": "پشتیبانی نمی‌شود",
+  "cybercore.encrypto.toast.failed.no_result": "بدون تأیید",
+  "cybercore.encrypto.toast.failed.version": "پروتکل v%s، مود v%s",
+  "cybercore.encrypto.toast.failed.rejected": "کلیدها رد شد",
+  "cybercore.encrypto.toast.failed.local_key": "خطای کلید",
+  "cybercore.encrypto.hud.unencrypted": "رمزگذاری‌نشده"
+}

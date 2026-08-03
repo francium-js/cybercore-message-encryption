@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "cybercore-message-encryption",
+  "version": "${version}",
+  "name": "Cybercore Message Encryption",
+  "description": "End-to-end encrypted /msg and /r. Messages are sealed on your machine and the server only ever relays ciphertext and public keys. Needs the cybercore-server-message-encryption plugin on the server.",
+  "authors": ["francium"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/cybercore-message-encryption/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.francium.cybercoreMessageEncryption.client.CybercoreMessageEncryptionDataGenerator"
+    ],
+    "client": [
+      "org.francium.cybercoreMessageEncryption.client.CybercoreMessageEncryptionClient"
+    ],
+    "main": [
+      "org.francium.cybercoreMessageEncryption.CybercoreMessageEncryption"
+    ]
+  },
+  "mixins": [
+    "cybercore-message-encryption.mixins.json",
+    {
+      "config": "cybercore-message-encryption.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

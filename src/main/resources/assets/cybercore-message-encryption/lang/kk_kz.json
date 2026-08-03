@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Шифрлау қосулы",
+  "cybercore.encrypto.toast.ok.body": "Хабарлар қорғалған",
+  "cybercore.encrypto.toast.failed.title": "Шифрлау өшірулі",
+  "cybercore.encrypto.toast.failed.no_server": "Қолдау көрсетілмейді",
+  "cybercore.encrypto.toast.failed.no_result": "Растау жоқ",
+  "cybercore.encrypto.toast.failed.version": "Протокол v%s, мод v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Кілттер қабылданбады",
+  "cybercore.encrypto.toast.failed.local_key": "Кілт қатесі",
+  "cybercore.encrypto.hud.unencrypted": "Шифрланбаған"
+}

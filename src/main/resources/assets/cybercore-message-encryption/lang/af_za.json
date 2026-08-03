@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Enkripsie aan",
+  "cybercore.encrypto.toast.ok.body": "Boodskappe beskerm",
+  "cybercore.encrypto.toast.failed.title": "Enkripsie af",
+  "cybercore.encrypto.toast.failed.no_server": "Nie ondersteun nie",
+  "cybercore.encrypto.toast.failed.no_result": "Geen bevestiging",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Sleutels verwerp",
+  "cybercore.encrypto.toast.failed.local_key": "Sleutelfout",
+  "cybercore.encrypto.hud.unencrypted": "Onversleutel"
+}

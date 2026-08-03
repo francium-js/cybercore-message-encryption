@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Šifrování zapnuto",
+  "cybercore.encrypto.toast.ok.body": "Zprávy chráněny",
+  "cybercore.encrypto.toast.failed.title": "Šifrování vypnuto",
+  "cybercore.encrypto.toast.failed.no_server": "Nepodporováno",
+  "cybercore.encrypto.toast.failed.no_result": "Bez potvrzení",
+  "cybercore.encrypto.toast.failed.version": "Protokol v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Klíče odmítnuty",
+  "cybercore.encrypto.toast.failed.local_key": "Chyba klíče",
+  "cybercore.encrypto.hud.unencrypted": "Nešifrováno"
+}

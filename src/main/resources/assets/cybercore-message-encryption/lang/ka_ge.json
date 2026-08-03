@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "დაშიფვრა ჩართული",
+  "cybercore.encrypto.toast.ok.body": "შეტყობინებები დაცული",
+  "cybercore.encrypto.toast.failed.title": "დაშიფვრა გამორთული",
+  "cybercore.encrypto.toast.failed.no_server": "არ არის მხარდაჭერილი",
+  "cybercore.encrypto.toast.failed.no_result": "დადასტურება არ არის",
+  "cybercore.encrypto.toast.failed.version": "პროტოკოლი v%s, მოდი v%s",
+  "cybercore.encrypto.toast.failed.rejected": "გასაღებები უარყოფილია",
+  "cybercore.encrypto.toast.failed.local_key": "გასაღების შეცდომა",
+  "cybercore.encrypto.hud.unencrypted": "დაუშიფრავი"
+}

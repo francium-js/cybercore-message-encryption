@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Salaus päällä",
+  "cybercore.encrypto.toast.ok.body": "Viestit suojattu",
+  "cybercore.encrypto.toast.failed.title": "Salaus pois",
+  "cybercore.encrypto.toast.failed.no_server": "Ei tuettu täällä",
+  "cybercore.encrypto.toast.failed.no_result": "Ei vahvistusta",
+  "cybercore.encrypto.toast.failed.version": "Protokolla v%s, mod v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Avaimet hylätty",
+  "cybercore.encrypto.toast.failed.local_key": "Avainvirhe",
+  "cybercore.encrypto.hud.unencrypted": "Salaamaton"
+}

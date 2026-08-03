@@ -1,0 +1,11 @@
+{
+  "cybercore.encrypto.toast.ok.title": "Գաղտնագրումը միացած",
+  "cybercore.encrypto.toast.ok.body": "Պաշտպանված է",
+  "cybercore.encrypto.toast.failed.title": "Գաղտնագրումը անջատված",
+  "cybercore.encrypto.toast.failed.no_server": "Չի աջակցվում",
+  "cybercore.encrypto.toast.failed.no_result": "Հաստատում չկա",
+  "cybercore.encrypto.toast.failed.version": "Պրոտոկոլ v%s, մոդ v%s",
+  "cybercore.encrypto.toast.failed.rejected": "Բանալիները մերժվել են",
+  "cybercore.encrypto.toast.failed.local_key": "Բանալու սխալ",
+  "cybercore.encrypto.hud.unencrypted": "Չգաղտնագրված"
+}
